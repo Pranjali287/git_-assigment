@@ -10,7 +10,7 @@ d=23.56
 ?type
 typeof(a)
 typeof(b)
-typeof(c)
+typeof(c)dfghkojhgcfghkoljh
 typeof(d)
 #b)Demonstrate Arithmetic and Logical Operations with simple examples.
 4>5
